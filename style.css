@@ -46,4 +46,9 @@ hr {
     h2 {
         display: block;
     }
+
+    #main {
+        max-width: calc(100% - 20px);
+        margin: 10px auto;
+    }
 }
