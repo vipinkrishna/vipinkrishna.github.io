@@ -1,0 +1,49 @@
+/* https://github.com/vipinkrishna */
+
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+    background-color: rgba(0,0,0,0.5);
+}
+
+#main {
+    width: 700px;
+    max-width: calc(100% - 80px);
+    margin: 40px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 5px;
+    color: #888;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+h2 {
+    display: inline-block;
+}
+span {
+    font-size: 11px;
+}
+div.content {
+    margin-left: 25px;
+}
+
+hr {
+    height: 1px;
+    background-color: rgba(0,0,0,0.5);
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 550px){
+    h2 {
+        display: block;
+    }
+}
