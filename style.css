@@ -22,7 +22,7 @@ body {
     background-color: white;
     border-radius: 10px;
     color: #888;
-    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    box-shadow: 0 0 20px rgba(0,0,0,0.3), inset 0 0 5px rgba(0,0,0,0.3);
 }
 
 h2 {
