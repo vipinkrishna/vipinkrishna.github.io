@@ -16,8 +16,8 @@ body {
 
 #main {
     width: 1000px;
-    max-width: calc(100% - 80px);
-    margin: 40px auto;
+    max-width: calc(100% - 40px);
+    margin: 20px auto;
     padding: 30px;
     background-color: white;
     border-radius: 10px;
