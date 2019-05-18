@@ -6,6 +6,8 @@
 }
 
 body {
+  margin: 0;
+  padding: 0;
   background: limegreen;
   display: flex;
   justify-content: center;
