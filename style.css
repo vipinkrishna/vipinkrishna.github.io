@@ -28,12 +28,12 @@ body {
 h2 {
     display: inline-block;
     margin-top: 0;
-    transition: 0.1s;
+    /* transition: 0.1s; */
 }
 
-h2:hover {
+/* h2:hover {
     transform: rotate(2deg);
-}
+} */
 
 span {
     font-size: 11px;
@@ -81,12 +81,25 @@ div.content h3 {
     text-align: center;
     cursor: default;
     margin-top: 0;
-    transition: 0.1s;
+    /* transition: 0.1s; */
+    width: calc(100% - 300px);
+    margin: auto;
+    letter-spacing: 5px;
+    color: darkorchid;
 }
 
 div.content h3:hover {
-    transform: rotate(2deg);
+    animation: vibrate 0.2s 4;
 }
+
+@keyframes vibrate {
+    25% {transform: translateX(-3px);}
+    75% {transform: translateX(3px);}
+}
+
+/* div.content h3:hover {
+    transform: rotate(2deg);
+} */
 
 @media (max-width: 550px){
     body {
@@ -117,5 +130,7 @@ div.content h3:hover {
     div.content h3 {
         border-radius: 0px;
         box-shadow: none;
+        width: 100%;
+        letter-spacing: 3px;
     }
 }
