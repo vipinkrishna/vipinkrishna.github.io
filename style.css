@@ -82,14 +82,14 @@ div.content h3 {
     cursor: default;
     margin-top: 0;
     /* transition: 0.1s; */
-    width: calc(100% - 300px);
+    width: calc(100% - 100px);
+    max-width: 500px;
     margin: auto;
     letter-spacing: 5px;
-    color: darkorchid;
 }
 
 div.content h3:hover {
-    animation: vibrate 0.2s 4;
+    animation: vibrate 0.2s 5;
 }
 
 @keyframes vibrate {
