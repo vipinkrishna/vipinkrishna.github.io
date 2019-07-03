@@ -28,12 +28,7 @@ body {
 h2 {
     display: inline-block;
     margin-top: 0;
-    /* transition: 0.1s; */
 }
-
-/* h2:hover {
-    transform: rotate(2deg);
-} */
 
 span {
     font-size: 11px;
@@ -81,7 +76,6 @@ div.content h3 {
     text-align: center;
     cursor: default;
     margin-top: 0;
-    /* transition: 0.1s; */
     width: calc(100% - 100px);
     max-width: 500px;
     margin: auto;
@@ -96,10 +90,6 @@ div.content h3:hover {
     25% {transform: translateX(-5px);}
     75% {transform: translateX(5px);}
 }
-
-/* div.content h3:hover {
-    transform: rotate(2deg);
-} */
 
 @media (max-width: 550px){
     body {
