@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.55d83fdf.chunk.css",
-    "main.js": "./static/js/main.4afa50bf.chunk.js",
-    "main.js.map": "./static/js/main.4afa50bf.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.ec361f08.js",
-    "runtime-main.js.map": "./static/js/runtime-main.ec361f08.js.map",
-    "static/js/2.066330d2.chunk.js": "./static/js/2.066330d2.chunk.js",
-    "static/js/2.066330d2.chunk.js.map": "./static/js/2.066330d2.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.55d83fdf.chunk.css.map": "./static/css/main.55d83fdf.chunk.css.map",
-    "static/js/2.066330d2.chunk.js.LICENSE.txt": "./static/js/2.066330d2.chunk.js.LICENSE.txt"
+    "main.css": "/apps/react/vaccine-finder/v1/static/css/main.1fa9a2d3.chunk.css",
+    "main.js": "/apps/react/vaccine-finder/v1/static/js/main.0b37ee8d.chunk.js",
+    "main.js.map": "/apps/react/vaccine-finder/v1/static/js/main.0b37ee8d.chunk.js.map",
+    "runtime-main.js": "/apps/react/vaccine-finder/v1/static/js/runtime-main.8e051331.js",
+    "runtime-main.js.map": "/apps/react/vaccine-finder/v1/static/js/runtime-main.8e051331.js.map",
+    "static/js/2.066330d2.chunk.js": "/apps/react/vaccine-finder/v1/static/js/2.066330d2.chunk.js",
+    "static/js/2.066330d2.chunk.js.map": "/apps/react/vaccine-finder/v1/static/js/2.066330d2.chunk.js.map",
+    "index.html": "/apps/react/vaccine-finder/v1/index.html",
+    "static/css/main.1fa9a2d3.chunk.css.map": "/apps/react/vaccine-finder/v1/static/css/main.1fa9a2d3.chunk.css.map",
+    "static/js/2.066330d2.chunk.js.LICENSE.txt": "/apps/react/vaccine-finder/v1/static/js/2.066330d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec361f08.js",
+    "static/js/runtime-main.8e051331.js",
     "static/js/2.066330d2.chunk.js",
-    "static/css/main.55d83fdf.chunk.css",
-    "static/js/main.4afa50bf.chunk.js"
+    "static/css/main.1fa9a2d3.chunk.css",
+    "static/js/main.0b37ee8d.chunk.js"
   ]
 }
