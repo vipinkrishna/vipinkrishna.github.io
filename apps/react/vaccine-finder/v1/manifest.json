@@ -19,7 +19,7 @@
     }
   ],
   "start_url": "https://vipinkrishna.github.io/apps/react/vaccine-finder/v1/",
-  "display": "fullscreen",
+  "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000"
 }
