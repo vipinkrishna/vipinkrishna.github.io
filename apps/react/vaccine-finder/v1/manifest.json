@@ -1,5 +1,5 @@
 {
-  "short_name": "vaccineFinder",
+  "short_name": "vF",
   "name": "vaccineFinder",
   "icons": [
     {
@@ -21,5 +21,5 @@
   "start_url": "https://vipinkrishna.github.io/apps/react/vaccine-finder/v1/",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#000000"
+  "background_color": "#FFFFFF"
 }
