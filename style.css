@@ -22,7 +22,6 @@ body {
     background-color: white;
     border-radius   : 10px;
     color           : #888;
-    /* border       : 1px solid #aaa; */
     box-shadow      : 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -110,6 +109,7 @@ div.content h3:hover {
 @media (max-width: 550px) {
     body {
         background: #fff;
+        background : linear-gradient(to right, #ccc 0%, #bbb 100%);
     }
 
     h2 {
@@ -131,7 +131,7 @@ div.content h3:hover {
         padding      : 10px;
         margin-bottom: 10px;
 
-        border: 1px solid #ddd;
+        border: 1px solid #ccc;
     }
 
     div.content h3 {
